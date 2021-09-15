@@ -10,8 +10,9 @@
 
 <p>Leonardo Panciarelli</p> <p> RA : 21272675 </p></br>
 
-<p><b>Seja Bem Vindo a Nossa Dungeon</b></p></br>
-<img src="https://www.collinsdictionary.com/images/full/dungeon_132060359.jpg" alt="Minha Figura">" width="400px">
-<p>Aqui dentro você vai encontrar uma série de salas, seu objetivo é encontrar a nossa sala final, a sala 9</p></br>
-<p>Mas cuidado, você pode acabar encontrando todo tipo de coisa no meio do caminho, e apenas possui 7 tentativas!</p></br>
+<p><b>Seja Bem Vindo a Nossa Dungeon</b></p>
+<img src="https://www.collinsdictionary.com/images/full/dungeon_132060359.jpg" alt="Minha Figura" width="400px"></br>
+<p><b>Regras</b></p>
+<p>Aqui dentro você vai encontrar uma série de salas, seu objetivo é encontrar a nossa sala final, a sala 9</p>
+<p>Mas cuidado, você pode acabar encontrando todo tipo de coisa no meio do caminho, e apenas possui 7 tentativas!</p>
 <p>Escolha entre dois caminhos, Vermelho ou Preto!</p>
