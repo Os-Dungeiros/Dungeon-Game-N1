@@ -2,21 +2,21 @@ from random import randint
 numeroSala = 1
 escolhaCaminho = 0
 cont = 0
-print("\nOlá aventureiro!! :D\n")
-print("--------------------------\nSala atual (inicial) : {}\n--------------------------".format(numeroSala))
+print("\nOlá aventureiro! :D\n")
+print("--------------------------\n\033[1;33mSala atual (inicial) : {}\033[m\n--------------------------".format(numeroSala))
 while numeroSala != 9 and cont < 7:
-    escolhaCaminho = int(input("Qual caminho você seguirá (se escolher algum diferente de 1 ou 2 será adicionado 1)?\n[1] Vermelho\n[2] Preto\nEscolha : "))
-     if(numeroSala == 8 and escolhaCaminho == 2):
-        print("\n* Você caiu na dungeon dos controladores do espaço-tempo! Teleportando para uma sala aleatória ... *\n")
+    escolhaCaminho = int(input("Qual caminho você seguirá ?\n[1] \033[1;31mVermelho\033[m\n[2] \033[1;37mPreto\033[m\nEscolha : "))
+    if(numeroSala == 8 and escolhaCaminho == 2):
+        print("\n\033[1;35m* Você caiu na dungeon dos controladores do espaço-tempo! Teleportando para uma sala aleatória ... *\033[m\n")
         numeroSala = randint(1,5)
     elif(numeroSala == 6 or escolhaCaminho == 2):
         numeroSala += 2
     else:
         numeroSala += 1
-    print("----------------------\nSua sala atual é : {}\n----------------------\n".format(numeroSala))
+    print("----------------------\n\033[1;33mSua sala atual é : {}\033[m\n----------------------\n".format(numeroSala))
     cont = cont + 1
 if(numeroSala == 9):
-    print("Você venceu! Parabens por chegar na sala 9 !!!\n")
+    print("\033[1;32mVocê venceu! Parabens por chegar na sala 9 !!!\033[m\n")
 elif(cont >= 7):
-    print("Você perdeu por excesso de jogadas!\n")
-print("Total de jogadas : {}\n".format(cont)) 
+    print("\033[1;31mVocê perdeu por excesso de jogadas!\033[m\n")
+print("Total de jogadas : {}\n".format(cont))
