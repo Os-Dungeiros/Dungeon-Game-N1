@@ -1,14 +1,10 @@
 # Dungeon-Game-N1
-<p><b>Nome e RA dos participantes:</b></p></br></br>
-<p>Daniel Rubio Camargo</p> <p> RA : 21623158</p></br>
-
-<p>Ruan Lima Ribeiro</p> <p> RA : 21584682</p></br>
-
-<p>Arthur Gaier Arias</p> <p> RA: 21592194 </p></br>
-
-<p>Vitor Giusti Antunes</p> <p> RA: 21546699 </p></br>
-
-<p>Leonardo Panciarelli</p> <p> RA : 21272675 </p></br>
+<h2><b>Nome e RA dos participantes:</b></h2></br>
+<p>Daniel Rubio Camargo</p> <p> RA : 21623158</p>
+<p>Ruan Lima Ribeiro</p> <p> RA : 21584682</p>
+<p>Arthur Gaier Arias</p> <p> RA: 21592194 </p>
+<p>Vitor Giusti Antunes</p> <p> RA: 21546699 </p>
+<p>Leonardo Panciarelli</p> <p> RA : 21272675 </p>
 
 <p><b>Seja Bem Vindo a Nossa Dungeon</b></p>
 <img src="https://cdn.getyourguide.com/img/location/5729a8091c746.jpeg/88.jpg" alt="Minha Figura" width="400px"></br>
