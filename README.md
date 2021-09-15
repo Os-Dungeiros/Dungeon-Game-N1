@@ -12,3 +12,6 @@
 <p>-Aqui dentro você vai encontrar uma série de salas, seu objetivo é encontrar a nossa sala final, a sala 9</p>
 <p>-Mas cuidado, você pode acabar encontrando todo tipo de coisa no meio do caminho, e apenas possui 7 tentativas!</p>
 <p>-Escolha entre dois caminhos, Vermelho ou Preto!</p>
+<p>-Caso escolha um número diferente de 1 ou 2 será atribuido o caminho Vermelho</p>
+<p>-Caso caia na sala 6 não importa o q digitar, o caminho que será seguido é o Preto!!</p> 
+
